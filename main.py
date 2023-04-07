@@ -1,14 +1,12 @@
-import copy
 
 import numpy as np  # Paket für numerische Operationen
 # import matplotlib.pyplot as plt             # Paket fürs grafische Darstellen
 # from matplotlib import rc
 # from gooey import Gooey, GooeyParser        # grafische Benutzeroberfläche (GUI)
-from Vektor import *
 
 # Startvektor:
-v_0 = np.array(0.5, 0.5)
-v_1 = vektor(100, 100)
+v_0 = np.array[(0.5, 0.5)]
+v_1 = np.array[(100, 100)]
 
 # Nebenbedingungen
 NB = np.array([0.25, 1])
