@@ -1,6 +1,6 @@
 import copy
 
-import numpy as np  # Paket für numerische Operationen
+import numpy as np                            # Paket für numerische Operationen
 # import matplotlib.pyplot as plt             # Paket fürs grafische Darstellen
 # from matplotlib import rc
 # from gooey import Gooey, GooeyParser        # grafische Benutzeroberfläche (GUI)
