@@ -7,7 +7,7 @@ import numpy as np  # Paket für numerische Operationen
 from Vektor import *
 
 # Startvektor:
-v_0 = vektor(0.5, 0.5)
+v_0 = np.array(0.5, 0.5)
 v_1 = vektor(100, 100)
 
 # Nebenbedingungen
